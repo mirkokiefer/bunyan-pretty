@@ -1,0 +1,14 @@
+{
+  "name": "bunyan-pretty",
+  "version": "0.0.1",
+  "description": "hack that creates a pretty-printed bunyan output stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mirko Kiefer <mail@mirkokiefer.com>",
+  "license": "ISC",
+  "dependencies": {
+    "through": "^2.3.6"
+  }
+}
